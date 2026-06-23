@@ -1,2 +1,3 @@
 # RedThread
-Astrology, tarot and Jungian coaching apps/projects. 
+Symbolic systems software for astrology, tarot, Jungian coaching, and reflective pattern work.
+In development: Saturn Return Calculator.
